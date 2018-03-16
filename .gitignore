@@ -1,0 +1,14 @@
+
+
+*.pyc
+*~
+.*.swp
+.context
+.cproject
+.DS_Store
+.gdbinit
+.project
+.settings
+.swp
+.~lock.*
+*/build_*/
